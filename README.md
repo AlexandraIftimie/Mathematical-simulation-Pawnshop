@@ -24,9 +24,6 @@ Se cere: Sa se verifice prin metoda simularii numerice daca investitia in casa d
 
 
 
-Se cere:
-	Sa se verifice prin metoda simularii numerice daca investitia in casa de amanet este mai profitabila decat un depozit constituit la banca. Realizati un program prin care veti calcula doua cicluri de simulare.
-
 # Eng
 # Mathematical simulation.-Pawnshop
 
