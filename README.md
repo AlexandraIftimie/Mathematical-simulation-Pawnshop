@@ -1,16 +1,26 @@
 # Ro
 # Simulare-matematica - Casa-de-amanet
 
-  Un investitor deţine un fond de 30000 Euro şi are de ales între 2 variante de investiţie pentru o perioadă de 1 lună:
-1)	Să consituie un depozit la bancă cu dobânda de 5% pe an;
-2)	Să aloce banii pentru acordarea de împrumuturi pe termen scurt în cazul unei case de amanet.
+ Un investitor deţine un fond de 30000 Euro şi are de ales între 2 variante de investiţie pentru o perioadă de 1 lună:
 
-   Ipotezele in care isi desfasoara activitatea casa de amanet sunt urmatoarele:
-a)	Casa de amanet funcţionează non-stop;
-b)	Dobânda se plăteşte la acordarea împrumutului;
-c)	Imprumutul nu se poate  anula şi decurge din ziua efectuării împrumutului;
-d)	Dacă cererea zilnică > disponibilul zilnic, atunci nu se acordă împrumutul;
-e)	Cheltuielile de funcţionare ale casei de amanet: 50€/zi.
+1)   Să consituie un depozit la bancă cu dobânda de 5% pe an;
+2)   Să aloce banii pentru acordarea de împrumuturi pe termen scurt în cazul unei case de amanet.
+
+  Ipotezele in care isi desfasoara activitatea casa de amanet sunt urmatoarele:
+
+a)   Casa de amanet funcţionează non-stop;
+
+b)   Dobânda se plăteşte la acordarea împrumutului;
+
+c)   Imprumutul nu se poate anula şi decurge din ziua efectuării împrumutului;
+
+d)   Dacă cererea zilnică > disponibilul zilnic, atunci nu se acordă împrumutul;
+
+e)   Cheltuielile de funcţionare ale casei de amanet: 50€/zi.
+
+<br>
+
+Se cere: Sa se verifice prin metoda simularii numerice daca investitia in casa de amanet este mai profitabila decat un depozit constituit la banca. Realizati un program prin care veti calcula doua cicluri de simulare.
 
 
 
@@ -32,6 +42,7 @@ b) Interest is paid when the loan is granted;
 c) The loan is non-cancellable and accrues from the day the loan is made;
 d) If daily demand > daily availability, then the loan is not granted;
 e) Pawnbroker's operating costs: 50€/day.
+
 
 Required:
 	To verify by the numerical simulation method if the investment in the pawnshop is more profitable than a deposit made at the bank. Make a program to calculate two simulation cycles.
