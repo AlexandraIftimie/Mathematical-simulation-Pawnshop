@@ -32,12 +32,12 @@ Se cere:
 
  Simulation-mathematics - House-of-amanet
 
-	An investor holds a fund of 30000 Euro and has to choose between 2 investment options for a period of 1 month:
+An investor holds a fund of 30000 Euro and has to choose between 2 investment options for a period of 1 month:
   
 1) To make a deposit at the bank with an interest rate of 5% per year;
 2) To allocate the money to short-term pawnbroking.
 
-	The hypotheses in which the pawnshop operates are the following:
+The hypotheses in which the pawnshop operates are the following:
    
 a) The pawnshop operates 24 hours a day;
 
